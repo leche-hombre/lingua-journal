@@ -6,5 +6,13 @@
   "repository": "git@github.com:leche-hombre/lingua-journal.git",
   "author": "leche-hombre <mrjmontgomery@hotmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "svelte": "~3.31.2"
+  },
+  "devDependencies": {
+    "typescript": "~4.1.3",
+    "eslint": "~7.17.0",
+    "tslib": "~2.1.0"
+  }
 }
