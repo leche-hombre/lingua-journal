@@ -1,0 +1,10 @@
+{
+  "name": "lingua-journal",
+  "version": "1.0.0",
+  "description": "A journal keeping app with language learning assistance",
+  "main": "index.js",
+  "repository": "git@github.com:leche-hombre/lingua-journal.git",
+  "author": "leche-hombre <mrjmontgomery@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
